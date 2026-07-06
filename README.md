@@ -1,3 +1,11 @@
+Junior Software Developer| Data science & AI Trainee
+
+C# • .NET • React • Java Spring Boot • SQL • REST APIs • Python • Machine Learning
+Building and supporting business software, web applications and data-driven solutions.
+
+
+
+
 <!---- 👋 Hi, I’m @sirpent0
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Information technology
